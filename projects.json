@@ -1,0 +1,14 @@
+[
+  {
+    label: "Password Strength Tester Program",
+    src: "https://github.com/jacobschnettler/ap-csa/blob/main/PasswordTester.java"
+  },
+  {
+    label: "Password Encrypter Program",
+    src: "https://github.com/jacobschnettler/ap-csa/blob/main/Encrypter.java"
+  },
+  {
+    label: "Loops Test File",
+    src: "https://github.com/jacobschnettler/ap-csa/blob/main/Loops.java"
+  }
+]
