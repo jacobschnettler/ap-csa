@@ -1,5 +1,41 @@
 [
   {
+    "label": "Salary Employee Class",
+    "src": "https://github.com/jacobschnettler/ap-csa/blob/main/SalaryEmployee.java"
+  },
+  {
+    "label": "Hourly Employee Class",
+    "src": "https://github.com/jacobschnettler/ap-csa/blob/main/HourlyEmployee.java"
+  },
+  {
+    "label": "Employee Class",
+    "src": "https://github.com/jacobschnettler/ap-csa/blob/main/Employee.java"
+  },
+  {
+    "label": "Cube Class",
+    "src": "https://github.com/jacobschnettler/ap-csa/blob/main/Cube.java"
+  },
+  {
+    "label": "Cell Minutes Class",
+    "src": "https://github.com/jacobschnettler/ap-csa/blob/main/CellMins.java"
+  },
+  {
+    "label": "Box Test Class",
+    "src": "https://github.com/jacobschnettler/ap-csa/blob/main/BoxTest.java"
+  },
+  {
+    "label": "Box Class",
+    "src": "https://github.com/jacobschnettler/ap-csa/blob/main/Box.java"
+  },
+  {
+    "label": "Console Hangman",
+    "src": "https://github.com/jacobschnettler/ap-csa/blob/main/APHangman.java"
+  },
+  {
+    "label": "Console Hangman",
+    "src": "https://github.com/jacobschnettler/ap-csa/blob/main/APHangman.java"
+  },
+  {
     "label": "Password Strength Tester Program",
     "src": "https://github.com/jacobschnettler/ap-csa/blob/main/PasswordTester.java"
   },
